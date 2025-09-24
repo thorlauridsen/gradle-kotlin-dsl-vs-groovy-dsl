@@ -16,7 +16,7 @@ the project contains files such as **build.gradle.kts** and
 
 [Gradle 8.2 was released in 2023](https://docs.gradle.org/8.2/release-notes.html), 
 and it was decided that Kotlin DSL is now the 
-default choice for new Gradle builds. This means that if
+default choice for new Gradle projects. This means that if
 you generate a new project using the **gradle init** task,
 it will by default select Kotlin DSL over Groovy DSL.
 Additionally, if you create a new project using IntelliJ IDEA or
